@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @acostajoma
-- 👀 I’m interested in Mobile Programming
-- 🌱 I’m currently learning Dart & Flutter
-- 💞️ I’m looking to collaborate on App development
-- 📫 How to reach me: @acostajoma@gmail.com
+- 👀 I’m interested in Web Development, Data Analytics and Cloud Computing
+- 🌱 I’m currently learning React.
+- 💞️ I’m looking to collaborate as a Software engineer, Web developer, Data Engineer.
+- 📫 How to reach me: linkedin.com/in/jose-martin-acosta
 
 <!---
 acostajoma/acostajoma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
