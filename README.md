@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @acostajoma
+- 👋 Hi, I’m Jose Martin @acostajoma
 - 👀 I’m interested in Web Development, Data Analytics and Cloud Computing
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate as a Software engineer, Web developer, Data Engineer.
