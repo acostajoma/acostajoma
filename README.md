@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Jose Martin @acostajoma
-- 👀 I’m interested in Web Development, Data Analytics and Cloud Computing
-- 🌱 I’m currently learning React.
+- 👀 I’m interested in Web Development and Cloud Computing
+- 🌱 I’m currently learning Svelte and MarkoJS.
 - 💞️ I’m looking to collaborate as a Software engineer, Web developer, Data Engineer.
-- 📫 How to reach me: https://www.linkedin.com/in/jose-martin-acosta/
+- 📫 How to reach me: hhttps://www.linkedin.com/in/josem-acosta/ or in the contact form at https://www.joseacosta.dev/
 
 <!---
 acostajoma/acostajoma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
