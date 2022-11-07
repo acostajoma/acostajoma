@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Jose Martin @acostajoma
+- 👋 Hi, I’m Jose Martin @acostajoma 
 - 👀 I’m interested in Web Development and Cloud Computing
-- 🌱 I’m currently learning Svelte and MarkoJS.
-- 💞️ I’m looking to collaborate as a Software engineer, Web developer, Data Engineer.
+- 🌱 I’m currently learning Svelte, and have foundations on React and Marko JS
+- 💞️ I’m looking to collaborate as a Software engineer, Web developer, AWS Solutions Architect.
 - 📫 How to reach me: hhttps://www.linkedin.com/in/josem-acosta/ or in the contact form at https://www.joseacosta.dev/
 
 <!---
